@@ -1,3 +1,14 @@
 # Tägliche Zusammenfassung vom Problem und von meinem Code
 
-[twoSum - 28.02.2025](feb/28.02.2025/README.md)
+# Februar
+
+[twoSum - 28.02.2025](feb/28.02.2025/README.md)<hr/>
+
+# März
+
+[apply operations to array - 01.03.2025](mar/01.03.2025/README.md)
+[simple arr sum - 01.03.2025](mar/01.03.2025/README.md)
+[compare the triplets - 02.03.2025](mar/02.03.2025/README.md)
+[Partition Array According to given Pivot - 03.03.2025](mar/03.03.2025/README.md)
+
+<hr/>
