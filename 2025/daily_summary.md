@@ -10,5 +10,7 @@
 [simple arr sum - 01.03.2025](mar/01.03.2025/README.md) <br/>
 [compare the triplets - 02.03.2025](mar/02.03.2025/README.md)<br/>
 [Partition Array According to given Pivot - 03.03.2025](mar/03.03.2025/README.md)<br/>
+[Check if the Number is the Sum of the Powers of Three](mar/04.03.2025/README.md)
+[Maximum Achievable X - 05.03.2025](mar/05.03.2025/README.md)
 
 <hr/>
