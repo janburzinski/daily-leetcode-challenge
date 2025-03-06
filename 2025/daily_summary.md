@@ -12,5 +12,6 @@
 [Partition Array According to given Pivot - 03.03.2025](mar/03.03.2025/README.md)<br/>
 [Check if the Number is the Sum of the Powers of Three](mar/04.03.2025/README.md)
 [Maximum Achievable X - 05.03.2025](mar/05.03.2025/README.md)
+[Find Missing and Repeated Values - 06.03.2025](mar/06.03.2025/README.md)
 
 <hr/>
