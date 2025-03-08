@@ -13,5 +13,7 @@
 [Check if the Number is the Sum of the Powers of Three](mar/04.03.2025/README.md)
 [Maximum Achievable X - 05.03.2025](mar/05.03.2025/README.md)
 [Find Missing and Repeated Values - 06.03.2025](mar/06.03.2025/README.md)
+[Merge Sorted Array - 07.03.2025](mar/07.03.2025/README.md)
+[Binary Tree Inorder Traversal - 08.03.2025](mar/08.03.2025/README.md)
 
 <hr/>
