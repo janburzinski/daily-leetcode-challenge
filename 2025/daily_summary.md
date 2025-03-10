@@ -15,5 +15,7 @@
 [Find Missing and Repeated Values - 06.03.2025](mar/06.03.2025/README.md)
 [Merge Sorted Array - 07.03.2025](mar/07.03.2025/README.md)
 [Binary Tree Inorder Traversal - 08.03.2025](mar/08.03.2025/README.md)
+[Find Words that can be formed by Characters - 09.03.2025](mar/09.03.2025/README.md)
+[Nim Game / Check if String is a Acronmy of Words - 10.03.2025](mar/10.03.2025/README.md)
 
 <hr/>
