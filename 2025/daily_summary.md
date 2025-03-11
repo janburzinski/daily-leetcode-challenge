@@ -17,5 +17,6 @@
 [Binary Tree Inorder Traversal - 08.03.2025](mar/08.03.2025/README.md)
 [Find Words that can be formed by Characters - 09.03.2025](mar/09.03.2025/README.md)
 [Nim Game / Check if String is a Acronmy of Words - 10.03.2025](mar/10.03.2025/README.md)
+[Find the Index of the First Occurance of a String - 11.03.2025](mar/11.03.2025/README.md)
 
 <hr/>
