@@ -20,5 +20,9 @@
 [Find the Index of the First Occurance of a String - 11.03.2025](mar/11.03.2025/README.md)<br/>
 [Circular Sentence - 12.03.2025](mar/12.03.2025/README.md)<br/>
 [Defuse the Bomb - 13.03.2025](mar/13.03.2025/README.md)<br/>
+[Repeated Substring Pattern - 14.03.2025](mar/14.03.2025/README.md)<br/>
+[Valid Anagram - 14.03.2025](mar/14.03.2025/README.md)<br/>
+[Plus One - 15.03.2025](mar/15.03.2025/README.md)<br/>
+[Sign of the Product of an Array - 15.03.2025](mar/15.03.2025/README.md)<br/>
 
 <hr/>

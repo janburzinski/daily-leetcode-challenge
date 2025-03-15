@@ -16,7 +16,7 @@ class Solution {
     for (int k = 0; k < t.length(); k++) {
       char key = t.charAt(k);
       if (!count.containsKey(key) || count.get(key) == 0) {
-        return false;
+             return false;
       }
 
       count.put(key, count.get(key) - 1);
