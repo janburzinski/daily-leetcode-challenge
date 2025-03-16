@@ -24,5 +24,9 @@
 [Valid Anagram - 14.03.2025](mar/14.03.2025/README.md)<br/>
 [Plus One - 15.03.2025](mar/15.03.2025/README.md)<br/>
 [Sign of the Product of an Array - 15.03.2025](mar/15.03.2025/README.md)<br/>
+[Length of Last Word - 16.03.2025](mar/16.03.2025/README.md)<br/>
+[To Lower Case - 16.03.2025](mar/16.03.2025/README.md)<br/>
+[Baseball Game - 16.03.2025](mar/16.03.2025/README.md)<br/>
+[Robot Return to Origin - 16.03.2025](mar/16.03.2025/README.md)<br/>
 
 <hr/>
