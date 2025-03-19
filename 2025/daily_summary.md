@@ -31,5 +31,6 @@
 [Is Monotonic - 17.03.2025](mar/17.03.2025/README.md)<br/>
 [Merge Two Linked List - 18.03.2025](mar/18.03.2025/README.md)<br/>
 [Reverse Linked List - 18.03.2025](mar/18.03.2025/README.md)<br/>
+[Move Zeroes - 19.03.2025](mar/19.03.2025/README.md)<br/>
 
 <hr/>
