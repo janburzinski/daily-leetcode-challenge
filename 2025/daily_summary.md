@@ -32,5 +32,7 @@
 [Merge Two Linked List - 18.03.2025](mar/18.03.2025/README.md)<br/>
 [Reverse Linked List - 18.03.2025](mar/18.03.2025/README.md)<br/>
 [Move Zeroes - 19.03.2025](mar/19.03.2025/README.md)<br/>
+[Count Odds - 20.03.2025](mar/20.03.2025/README.md)<br/>
+[Average Salery Excluding Minimum and Maximum - 20.03.2025](mar/20.03.2025/README.md)<br/>
 
 <hr/>
