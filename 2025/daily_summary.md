@@ -34,5 +34,10 @@
 [Move Zeroes - 19.03.2025](mar/19.03.2025/README.md)<br/>
 [Count Odds - 20.03.2025](mar/20.03.2025/README.md)<br/>
 [Average Salery Excluding Minimum and Maximum - 20.03.2025](mar/20.03.2025/README.md)<br/>
+[Check if Every Row and Col Contains All Nums - 21.03.2025](mar/21.03.2025/README.md)
+[Matrix Diagonal Sum - 21.03.2025](mar/21.03.2025/README.md)
+[Richest Customer Wealth - 21.03.2025](mar/21.03.2025/README.md)
+[Search Insert Position - 22.03.2025](mar/22.02.2025/README.md)
+[Fibonacci Number - 22.03.2025](mar/22.03.2025/README.md)
 
 <hr/>
