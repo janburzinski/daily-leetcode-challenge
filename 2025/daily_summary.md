@@ -39,5 +39,10 @@
 [Richest Customer Wealth - 21.03.2025](mar/21.03.2025/README.md)
 [Search Insert Position - 22.03.2025](mar/22.02.2025/README.md)
 [Fibonacci Number - 22.03.2025](mar/22.03.2025/README.md)
+[A Very Big Sum - 23.03.2025](mar/23.03.2025/README.md)
+[Reverse Array - 23.03.2025](mar/23.03.2025/README.md)
+[Left Rotation - 24.03.2025](mar/24.03.2025/README.md)
+[Sparse Arrays - 24.03.2025](mar/24.03.2025/README.md)
+[Print Elements of a Linked List - 25.03.2025](mar/25.03.2025/README.md)
 
 <hr/>
