@@ -45,5 +45,7 @@
 [Sparse Arrays - 24.03.2025](mar/24.03.2025/README.md)
 [Print Elements of a Linked List - 25.03.2025](mar/25.03.2025/README.md)
 [Staircase - 26.03.2025](mar/26.03.2025/README.md)
+[Insert a Node at the Tail of a Linked List - 27.03.2025](mar/27.03.2025/README.md)
+[Find the Difference - 28.03.2025](mar/28.03.2025/README.md)
 
 <hr/>
