@@ -8,6 +8,7 @@ eigene challenge jeden tag 1 leetcode herausforderung zu machen
 - [ ] C
 - [ ] Go
 - [ ] TypeScript / JavaScript
+- [ ] Java
 
 # daily summary vom problem mit meinen denkvorgängen
 
