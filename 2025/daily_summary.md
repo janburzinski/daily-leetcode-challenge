@@ -48,5 +48,7 @@
 [Insert a Node at the Tail of a Linked List - 27.03.2025](mar/27.03.2025/README.md)
 [Find the Difference - 28.03.2025](mar/28.03.2025/README.md)
 [Add Two Numbers - 29.03.2025](mar/29.03.2025/README.md)
+[Reverse Integer - 30.03.2025](mar/30.03.2025/README.md)
+[Remove Duplicates from Sorted Array - 31.03.2025](mar/31.03.2025/README.md)
 
 <hr/>
