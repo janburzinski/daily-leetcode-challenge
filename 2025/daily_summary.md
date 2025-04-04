@@ -52,6 +52,9 @@
 [Remove Duplicates from Sorted Array - 31.03.2025](mar/31.03.2025/README.md)<hr/>
 
 # April
-[Return Length of Arguments - 01.04.2025](april/01.04.2025/README.md)
+[Return Length of Arguments - 01.04.2025](april/01.04.2025/README.md)<br/>
+[Number of 1 Bits - 02.04.2025](april/02.04.2025/README.md)<br/>
+[Diagonal Difference - 03.04.2025](april/03.04.2025/README.md)<br/>
+[Plus Minus - 04.04.2025](april/04.04.2025/README.md)<br/>
 
 <hr/>
