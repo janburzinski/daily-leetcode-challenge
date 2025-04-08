@@ -56,5 +56,9 @@
 [Number of 1 Bits - 02.04.2025](april/02.04.2025/README.md)<br/>
 [Diagonal Difference - 03.04.2025](april/03.04.2025/README.md)<br/>
 [Plus Minus - 04.04.2025](april/04.04.2025/README.md)<br/>
+[Mini Max Sum - 05.04.2025](april/05.04.2025/README.md)<br/>
+[Birthday Cake Candles - 06.04.2025](april/06.04.2025/README.md)<br/>
+[Time Conversion - 07.04.2025](april/07.04.2025/README.md)<br/>
+[Grading Students - 08.04.2025](april/08.04.2025/README.md)<br/>
 
 <hr/>
