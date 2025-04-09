@@ -60,5 +60,6 @@
 [Birthday Cake Candles - 06.04.2025](april/06.04.2025/README.md)<br/>
 [Time Conversion - 07.04.2025](april/07.04.2025/README.md)<br/>
 [Grading Students - 08.04.2025](april/08.04.2025/README.md)<br/>
+[Apples and Oranges - 09.04.2025](april/09.04.2025/README.md)<br/>
 
 <hr/>
