@@ -1,3 +1,5 @@
+import java.util.List;
+
 class Result {
     public static void countApplesAndOranges(int houseStart, int houseEnd, int appleTree, int orangeTree,
             List<Integer> apples, List<Integer> oranges) {
@@ -7,7 +9,6 @@ class Result {
             for(int apple : apples) {
                 int a = apple + appleTree;
                 if(a >= houseStart && a <= houseEnd) applesLanded++;
-        
             }
 
             for(int orange : oranges) {
