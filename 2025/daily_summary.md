@@ -62,5 +62,7 @@
 [Grading Students - 08.04.2025](april/08.04.2025/README.md)<br/>
 [Apples and Oranges - 09.04.2025](april/09.04.2025/README.md)<br/>
 [Number Line Jump - 10.04.2025](april/10.04.2025/README.md)<br/>
+[Between Two Sets - 11.04.2025](april/11.04.2025/README.md)<br/>
+[Breaking Best and Worst Records - 12.04.2025](april/12.04.2025/README.md)<br/>
 
 <hr/>
