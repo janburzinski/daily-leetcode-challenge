@@ -64,5 +64,7 @@
 [Number Line Jump - 10.04.2025](april/10.04.2025/README.md)<br/>
 [Between Two Sets - 11.04.2025](april/11.04.2025/README.md)<br/>
 [Breaking Best and Worst Records - 12.04.2025](april/12.04.2025/README.md)<br/>
+[Birthday Bar - 13.04.2025](april/13.04.2025/README.md)<br/>
+[Divisible Sum Pairs - 14.04.2025](april/14.05.2025/README.md)<br/>
 
 <hr/>
