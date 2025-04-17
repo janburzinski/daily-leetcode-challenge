@@ -66,5 +66,8 @@
 [Breaking Best and Worst Records - 12.04.2025](april/12.04.2025/README.md)<br/>
 [Birthday Bar - 13.04.2025](april/13.04.2025/README.md)<br/>
 [Divisible Sum Pairs - 14.04.2025](april/14.05.2025/README.md)<br/>
+[Migratory Birds - 15.04.2025](april/15.04.2025/README.md)<br/>
+[Day of the Programmer - 16.04.2025](april/16.04.2025/README.md)<br/>
+[Bon Appetit - 17.04.2025](april/17.04.2025/README.md)<br/>
 
 <hr/>
